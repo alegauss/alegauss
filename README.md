@@ -1,4 +1,4 @@
-<img src="https://alegauss.github.io/logo.svg" alt="" width="56" align="left">
+<img src="https://alegauss.github.io/logo.svg?v=2" alt="" width="56" align="left">
 
 ### Alexandre Oliveira
 
