@@ -41,6 +41,12 @@ winget install alegauss.ClaudeCodeTray
 - <img src="https://skillgist.com/icon.svg" alt="" width="20" height="20" align="top"> **[skillgist](https://skillgist.com/)**: publish a Claude Code skill and get a URL to share; anyone installs it into a project with one command.
 - <img src="https://cursarei.com.br/favicon.svg" alt="" width="20" height="20" align="top"> **[Cursarei](https://cursarei.com.br/)**: an independent directory of Brazilian courses, comparing degrees, MBAs, postgraduate and short courses across institutions in one place.
 
+## <img src="assets/japode.svg" alt="" width="28" height="28" align="top"> Japode
+
+A family of small products, at [japode.com](https://japode.com/):
+
+- <img src="https://japode.com/photo-boost/icon.svg" alt="" width="20" height="20" align="top"> **[PhotoBoost](https://japode.com/photo-boost/)**: upscales, denoises and restores your photos with AI on your own Windows PC. No cloud, no account, nothing uploaded.
+
 ## <img src="https://alegauss.github.io/viglet/viglet-logo.png" alt="" width="28" height="28" align="top"> Viglet
 
 - <img src="https://alegauss.github.io/viglet/turing-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Turing](https://turing.viglet.org)** · Enterprise Search: search for sites with a lot of content, with AI answers drawn only from your own pages. Self-hosted, no per-user licence.

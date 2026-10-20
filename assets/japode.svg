@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t">
+  <title id="t">Japode</title>
+  <defs>
+    <radialGradient id="bg" cx="55%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#2BCB6B"/>
+      <stop offset="1" stop-color="#11904A"/>
+    </radialGradient>
+  </defs>
+  <circle cx="256" cy="256" r="256" fill="url(#bg)"/>
+  <polyline points="160,136 400,256 160,376" fill="none" stroke="#D4F7DF" stroke-width="100" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="160,136 400,256 160,376" fill="none" stroke="#111111" stroke-width="60" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
