@@ -46,6 +46,7 @@ winget install alegauss.ClaudeCodeTray
 A family of small products, at [japode.com](https://japode.com/):
 
 - <img src="https://japode.com/photo-boost/icon.svg" alt="" width="20" height="20" align="top"> **[PhotoBoost](https://japode.com/photo-boost/)**: upscales, denoises and restores your photos with AI on your own Windows PC. No cloud, no account, nothing uploaded.
+- <img src="https://japode.com/products/japode-ads.svg" alt="" width="20" height="20" align="top"> **[Japode Ads](https://ads.japode.com/)**: the house banner network, where the Japode and Viglet products advertise each other. Static files, no ad server, no bidding, no tracking.
 
 ## <img src="https://alegauss.github.io/viglet/viglet-logo.png" alt="" width="28" height="28" align="top"> Viglet
 
