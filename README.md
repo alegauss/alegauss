@@ -34,6 +34,7 @@ winget install alegauss.ClaudeCodeTray
 
 - <img src="assets/usage-simulator.svg" alt="" width="20" height="20" align="top"> **[Usage Simulator](https://alegauss.github.io/claude-code-usage/)**: what a Claude Code task really costs, and how far each plan carries you, from real session transcripts.
 - <img src="assets/time-study.svg" alt="" width="20" height="20" align="top"> **[Time Study](https://alegauss.github.io/claude-code-time-study/)**: where the hours went on an AI-assisted project, from session records and git history.
+- <img src="assets/claude-code-first.svg" alt="" width="20" height="20" align="top"> **[Claude Code First](https://alegauss.github.io/claude-code-first/)**: how to run a project where Claude Code writes the code and a person decides what gets built, with every rule resting on graded evidence from five projects.
 - <img src="https://alegauss.github.io/mini-gpt/logo.svg" alt="" width="20" height="20" align="top"> **[Mini GPT](https://alegauss.github.io/mini-gpt/)**: a character-level GPT written from scratch in plain Java with no ML library, from bigrams to backprop by hand to a small transformer.
 
 ## Independent sites
