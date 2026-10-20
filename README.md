@@ -1,6 +1,6 @@
 <img src="https://alegauss.github.io/logo.svg?v=2" alt="" width="56" align="left">
 
-### Alexandre Oliveira
+### Alê Oliveira
 
 I build open-source tools for working with coding agents without losing track of them, and the Windows apps the platform should have shipped. I also work on [Viglet](https://www.viglet.org): open-source search and content tools for organisations with a lot to publish.
 
