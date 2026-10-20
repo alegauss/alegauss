@@ -20,6 +20,7 @@ winget install alegauss.ClaudeCodeTray
 - <img src="https://alegauss.github.io/commitclerk/logo.png" alt="" width="20" height="20" align="top"> **[commitclerk](https://alegauss.github.io/commitclerk/)**: reads your staged diff, drafts a Conventional Commits message, shows it to you, and commits.
 - <img src="https://alegauss.github.io/winwright/logo.svg" alt="" width="20" height="20" align="top"> **[winwright](https://alegauss.github.io/winwright/)**: drives a Windows desktop app from a test, with four verdicts instead of two, so a check that never ran never reads as one that passed.
 - <img src="https://alegauss.github.io/polyweave/logo.svg" alt="" width="20" height="20" align="top"> **[polyweave](https://alegauss.github.io/polyweave/)**: makes 3D assets by declaring what they must satisfy, on Blender and Godot.
+- <img src="https://alegauss.github.io/logos/piano.png" alt="" width="20" height="20" align="top"> **[Piano](https://alegauss.github.io/piano/)**: a piano Claude Code can write scores for, play and teach from; the notes fall onto the keys and you learn to play them.
 
 ## For Windows
 
@@ -27,10 +28,11 @@ winget install alegauss.ClaudeCodeTray
 - <img src="https://alegauss.github.io/quickshell/logo.svg" alt="" width="20" height="20" align="top"> **[Quickshell](https://alegauss.github.io/quickshell/)**: SSH on Windows without the suite around it.
 - <img src="https://alegauss.github.io/pportal/logo.svg" alt="" width="20" height="20" align="top"> **[PPortal](https://alegauss.github.io/pportal/)**: PlayStation Remote Play as a real Windows app.
 
-## Measured, not recalled
+## Lab
 
 - <img src="assets/usage-simulator.svg" alt="" width="20" height="20" align="top"> **[Usage Simulator](https://alegauss.github.io/claude-code-usage/)**: what a Claude Code task really costs, and how far each plan carries you, from real session transcripts.
 - <img src="assets/time-study.svg" alt="" width="20" height="20" align="top"> **[Time Study](https://alegauss.github.io/claude-code-time-study/)**: where the hours went on an AI-assisted project, from session records and git history.
+- <img src="https://alegauss.github.io/mini-gpt/logo.svg" alt="" width="20" height="20" align="top"> **[Mini GPT](https://alegauss.github.io/mini-gpt/)**: a character-level GPT written from scratch in plain Java with no ML library, from bigrams to backprop by hand to a small transformer.
 
 ## Independent sites
 
