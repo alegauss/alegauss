@@ -43,9 +43,16 @@ winget install alegauss.ClaudeCodeTray
 
 ## <img src="https://alegauss.github.io/viglet/viglet-logo.png" alt="" width="28" height="28" align="top"> Viglet
 
-- <img src="https://alegauss.github.io/viglet/turing-logo.png" alt="" width="20" height="20" align="top"> **[Turing](https://turing.viglet.org)**: search for sites with a lot of content, with AI answers drawn only from your own pages. Self-hosted, no per-user licence.
-- <img src="https://alegauss.github.io/viglet/shio-logo.png" alt="" width="20" height="20" align="top"> **[Shio](https://shio.viglet.org)**: a content system where a new page goes live the same day, reviewed by your own team.
-- <img src="https://alegauss.github.io/viglet/dumont-logo.png" alt="" width="20" height="20" align="top"> **[Dumont](https://docs.viglet.org/dumont/)**: gathers content from portals, back-office systems and PDFs and feeds it to the search.
+- <img src="https://alegauss.github.io/viglet/turing-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Turing](https://turing.viglet.org)** · Enterprise Search: search for sites with a lot of content, with AI answers drawn only from your own pages. Self-hosted, no per-user licence.
+- <img src="https://alegauss.github.io/viglet/shio-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Shio](https://shio.viglet.org)** · Agent-ready CMS: a new page goes live the same day, reviewed and approved by your own team.
+- <img src="https://alegauss.github.io/viglet/dumont-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Dumont](https://dumont.viglet.org)** · Data Exchange Platform: connectors that gather content from portals, back-office systems and PDFs and keep the search index correct.
+
+## <img src="https://games.viglet.com/favicon.svg" alt="" width="28" height="28" align="top"> Viglet Games
+
+Our game label. The first two games are in development for Steam:
+
+- <img src="https://cottony.viglet.com/assets/favicon.png" alt="" width="20" height="20" align="top"> **[Cottony](https://cottony.viglet.com)**: a plush match-3, where hearts, drops, stars and buttons squash when they land and puff when they pop.
+- <img src="https://spinhold.viglet.com/assets/favicon.svg" alt="" width="20" height="20" align="top"> **[Spinhold](https://spinhold.viglet.com)**: a neon arcade shooter flown around the outside of a spinning space colony. Shoot the swarm apart and bring its people home.
 
 ---
 
