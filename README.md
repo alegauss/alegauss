@@ -6,6 +6,8 @@ I build open-source tools for working with coding agents without losing track of
 
 <br clear="left">
 
+<a href="https://www.star-history.com/alegauss"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?user=alegauss&year=2026&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?user=alegauss&year=2026"><img alt="Top Committer 2026 on Star History" src="https://api.star-history.com/badge?user=alegauss&year=2026"></picture></a>
+
 ## <img src="https://alegauss.github.io/claude-tray/logo.png" alt="" width="28" height="28" align="top"> Start here: Claude Code Tray
 
 **[Claude Code Tray](https://alegauss.github.io/claude-tray/)** puts your Claude Code rate limit in the Windows tray. The icon turns red before you run out, and a weekly forecast is paced to the hours you actually work. It reads the session files already on your disk: no account, no service.
