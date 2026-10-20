@@ -49,7 +49,7 @@ winget install alegauss.ClaudeCodeTray
 
 ## <img src="https://games.viglet.com/favicon.svg" alt="" width="28" height="28" align="top"> Viglet Games
 
-Our game label. The first two games are in development for Steam:
+Our game label. The first two games are in development for Steam; follow [Viglet Games on itch.io](https://viglet.itch.io/) to hear when they launch:
 
 - <img src="https://cottony.viglet.com/assets/favicon.png" alt="" width="20" height="20" align="top"> **[Cottony](https://cottony.viglet.com)**: a plush match-3, where hearts, drops, stars and buttons squash when they land and puff when they pop.
 - <img src="https://spinhold.viglet.com/assets/favicon.svg" alt="" width="20" height="20" align="top"> **[Spinhold](https://spinhold.viglet.com)**: a neon arcade shooter flown around the outside of a spinning space colony. Shoot the swarm apart and bring its people home.
