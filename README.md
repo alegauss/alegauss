@@ -32,6 +32,11 @@ winget install alegauss.ClaudeCodeTray
 - <img src="assets/usage-simulator.svg" alt="" width="20" height="20" align="top"> **[Usage Simulator](https://alegauss.github.io/claude-code-usage/)**: what a Claude Code task really costs, and how far each plan carries you, from real session transcripts.
 - <img src="assets/time-study.svg" alt="" width="20" height="20" align="top"> **[Time Study](https://alegauss.github.io/claude-code-time-study/)**: where the hours went on an AI-assisted project, from session records and git history.
 
+## Independent sites
+
+- <img src="https://skillgist.com/icon.svg" alt="" width="20" height="20" align="top"> **[skillgist](https://skillgist.com/)**: publish a Claude Code skill and get a URL to share; anyone installs it into a project with one command.
+- <img src="https://cursarei.com.br/favicon.svg" alt="" width="20" height="20" align="top"> **[Cursarei](https://cursarei.com.br/)**: an independent directory of Brazilian courses, comparing degrees, MBAs, postgraduate and short courses across institutions in one place.
+
 ## <img src="https://alegauss.github.io/viglet/viglet-logo.png" alt="" width="28" height="28" align="top"> Viglet
 
 - <img src="https://alegauss.github.io/viglet/turing-logo.png" alt="" width="20" height="20" align="top"> **[Turing](https://turing.viglet.org)**: search for sites with a lot of content, with AI answers drawn only from your own pages. Self-hosted, no per-user licence.
