@@ -43,8 +43,6 @@ winget install alegauss.ClaudeCodeTray
 
 ## <img src="assets/japode.svg" alt="" width="28" height="28" align="top"> Japode
 
-A family of small products, at [japode.com](https://japode.com/):
-
 - <img src="https://japode.com/photo-boost/icon.svg" alt="" width="20" height="20" align="top"> **[PhotoBoost](https://japode.com/photo-boost/)**: upscales, denoises and restores your photos with AI on your own Windows PC. No cloud, no account, nothing uploaded.
 - <img src="https://japode.com/products/japode-ads.svg" alt="" width="20" height="20" align="top"> **[Japode Ads](https://ads.japode.com/)**: the house banner network, where the Japode and Viglet products advertise each other. Static files, no ad server, no bidding, no tracking.
 
@@ -55,8 +53,6 @@ A family of small products, at [japode.com](https://japode.com/):
 - <img src="https://alegauss.github.io/viglet/dumont-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Dumont](https://dumont.viglet.org)** · Data Exchange Platform: connectors that gather content from portals, back-office systems and PDFs and keep the search index correct.
 
 ## <img src="https://games.viglet.com/favicon.svg" alt="" width="28" height="28" align="top"> Viglet Games
-
-Our game label. The first two games are in development for Steam; follow [Viglet Games on itch.io](https://viglet.itch.io/) to hear when they launch:
 
 - <img src="https://cottony.viglet.com/assets/favicon.png" alt="" width="20" height="20" align="top"> **[Cottony](https://cottony.viglet.com)**: a plush match-3, where hearts, drops, stars and buttons squash when they land and puff when they pop.
 - <img src="https://spinhold.viglet.com/assets/favicon.svg" alt="" width="20" height="20" align="top"> **[Spinhold](https://spinhold.viglet.com)**: a neon arcade shooter flown around the outside of a spinning space colony. Shoot the swarm apart and bring its people home.
