@@ -29,6 +29,8 @@ winget install alegauss.ClaudeCodeTray
 - <img src="https://alegauss.github.io/freewilly/logo.svg" alt="" width="20" height="20" align="top"> **[FreeWilly](https://alegauss.github.io/freewilly/)**: Docker on Windows without Docker Desktop.
 - <img src="https://alegauss.github.io/quickshell/logo.svg" alt="" width="20" height="20" align="top"> **[Quickshell](https://alegauss.github.io/quickshell/)**: SSH on Windows without the suite around it.
 - <img src="https://alegauss.github.io/pportal/logo.svg" alt="" width="20" height="20" align="top"> **[PPortal](https://alegauss.github.io/pportal/)**: PlayStation Remote Play as a real Windows app.
+- <img src="https://alegauss.github.io/modelado/icon.svg" alt="" width="20" height="20" align="top"> **[Modelado](https://alegauss.github.io/modelado/)**: turns a photo into a 3D object or a relief, ready to print, with AI on your own PC.
+- <img src="https://alegauss.github.io/revelei/icon.svg" alt="" width="20" height="20" align="top"> **[Revelei](https://alegauss.github.io/revelei/)**: upscales photos, restores faces, removes backgrounds and cleans up noise, with AI on your own PC.
 
 ## Lab
 
