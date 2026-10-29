@@ -50,9 +50,9 @@ winget install alegauss.ClaudeCodeTray
 
 ## <img src="https://alegauss.github.io/viglet/viglet-logo.png" alt="" width="28" height="28" align="top"> Viglet
 
-- <img src="https://alegauss.github.io/viglet/turing-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Turing](https://turing.viglet.org)** · Enterprise Search: search for sites with a lot of content, with AI answers drawn only from your own pages. Self-hosted, no per-user licence.
-- <img src="https://alegauss.github.io/viglet/shio-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Shio](https://shio.viglet.org)** · Agent-ready CMS: a new page goes live the same day, reviewed and approved by your own team.
-- <img src="https://alegauss.github.io/viglet/dumont-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Dumont](https://dumont.viglet.org)** · Data Exchange Platform: connectors that gather content from portals, back-office systems and PDFs and keep the search index correct.
+- <img src="https://alegauss.github.io/viglet/turing-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Turing](https://openviglet.github.io/turing/)** · Enterprise Search: search for sites with a lot of content, with AI answers drawn only from your own pages. Self-hosted, no per-user licence.
+- <img src="https://alegauss.github.io/viglet/shio-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Shio](https://openviglet.github.io/shio/)** · Agent-ready CMS: a new page goes live the same day, reviewed and approved by your own team.
+- <img src="https://alegauss.github.io/viglet/dumont-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Dumont](https://openviglet.github.io/dumont/)** · Data Exchange Platform: connectors that gather content from portals, back-office systems and PDFs and keep the search index correct.
 
 ## <img src="https://games.viglet.com/favicon.svg" alt="" width="28" height="28" align="top"> Viglet Games
 
