@@ -20,6 +20,7 @@ winget install alegauss.ClaudeCodeTray
 
 - <img src="https://alegauss.github.io/roadkeep/assets/roadkeep-mark.svg" alt="" width="20" height="20" align="top"> **[roadkeep](https://alegauss.github.io/roadkeep/)**: owns the writes to your ROADMAP, CHANGELOG and IMPROVEMENTS, so the format is enforced instead of remembered. CLI and Claude Code plugin.
 - <img src="https://alegauss.github.io/commitclerk/logo.png" alt="" width="20" height="20" align="top"> **[commitclerk](https://alegauss.github.io/commitclerk/)**: reads your staged diff, drafts a Conventional Commits message, shows it to you, and commits.
+- <img src="https://alegauss.github.io/askround/icon.svg" alt="" width="20" height="20" align="top"> **[askround](https://alegauss.github.io/askround/)**: asks ChatGPT, Gemini, Claude and Perplexity the same question and reads whether your product is named, where, and beside which rivals. CLI and MCP server.
 - <img src="https://alegauss.github.io/winwright/logo.svg" alt="" width="20" height="20" align="top"> **[winwright](https://alegauss.github.io/winwright/)**: drives a Windows desktop app from a test, with four verdicts instead of two, so a check that never ran never reads as one that passed.
 - <img src="https://alegauss.github.io/polyweave/logo.svg" alt="" width="20" height="20" align="top"> **[polyweave](https://alegauss.github.io/polyweave/)**: makes 3D assets by declaring what they must satisfy, on Blender and Godot.
 - <img src="https://alegauss.github.io/logos/piano.png" alt="" width="20" height="20" align="top"> **[Piano](https://alegauss.github.io/piano/)**: a piano Claude Code can write scores for, play and teach from; the notes fall onto the keys and you learn to play them.
@@ -47,6 +48,7 @@ winget install alegauss.ClaudeCodeTray
 ## <img src="assets/japode.svg" alt="" width="28" height="28" align="top"> Japode
 
 - <img src="https://japode.com/products/japode-ads.svg" alt="" width="20" height="20" align="top"> **[Japode Ads](https://ads.japode.com/)**: the house banner network, where the Japode and Viglet products advertise each other. Static files, no ad server, no bidding, no tracking.
+- <img src="https://japode.com/products/jcloud.svg" alt="" width="20" height="20" align="top"> **[jcloud](https://japode.com/jcloud/)**: checks a service's manifest against every file that has to agree with it, from its compose file and route to backup.conf and .env.example, and names each place they drift.
 
 ## <img src="https://alegauss.github.io/viglet/viglet-logo.png" alt="" width="28" height="28" align="top"> Viglet
 
