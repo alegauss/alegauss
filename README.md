@@ -1,4 +1,4 @@
-<img src="https://alegauss.github.io/logo.svg?v=2" alt="" width="56" align="left">
+<img src="https://alegauss.com/logo.svg?v=2" alt="" width="56" align="left">
 
 ### Alexandre Oliveira
 
@@ -8,9 +8,9 @@ I build open-source tools for working with coding agents without losing track of
 
 <a href="https://www.star-history.com/alegauss"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?user=alegauss&year=2026&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?user=alegauss&year=2026"><img alt="Top Committer 2026 on Star History" src="https://api.star-history.com/badge?user=alegauss&year=2026"></picture></a>
 
-## <img src="https://alegauss.github.io/claude-tray/logo.png" alt="" width="28" height="28" align="top"> Start here: Claude Code Tray
+## <img src="https://alegauss.com/claude-tray/logo.png" alt="" width="28" height="28" align="top"> Start here: Claude Code Tray
 
-**[Claude Code Tray](https://alegauss.github.io/claude-tray/)** puts your Claude Code rate limit in the Windows tray. The icon turns red before you run out, and a weekly forecast is paced to the hours you actually work. It reads the session files already on your disk: no account, no service.
+**[Claude Code Tray](https://alegauss.com/claude-tray/)** puts your Claude Code rate limit in the Windows tray. The icon turns red before you run out, and a weekly forecast is paced to the hours you actually work. It reads the session files already on your disk: no account, no service.
 
 ```
 winget install alegauss.ClaudeCodeTray
@@ -18,27 +18,27 @@ winget install alegauss.ClaudeCodeTray
 
 ## For Claude Code
 
-- <img src="https://alegauss.github.io/roadkeep/assets/roadkeep-mark.svg" alt="" width="20" height="20" align="top"> **[roadkeep](https://alegauss.github.io/roadkeep/)**: owns the writes to your ROADMAP, CHANGELOG and IMPROVEMENTS, so the format is enforced instead of remembered. CLI and Claude Code plugin.
-- <img src="https://alegauss.github.io/commitclerk/logo.png" alt="" width="20" height="20" align="top"> **[commitclerk](https://alegauss.github.io/commitclerk/)**: reads your staged diff, drafts a Conventional Commits message, shows it to you, and commits.
-- <img src="https://alegauss.github.io/askround/icon.svg" alt="" width="20" height="20" align="top"> **[askround](https://alegauss.github.io/askround/)**: asks ChatGPT, Gemini, Claude and Perplexity the same question and reads whether your product is named, where, and beside which rivals. CLI and MCP server.
-- <img src="https://alegauss.github.io/winwright/logo.svg" alt="" width="20" height="20" align="top"> **[winwright](https://alegauss.github.io/winwright/)**: drives a Windows desktop app from a test, with four verdicts instead of two, so a check that never ran never reads as one that passed.
-- <img src="https://alegauss.github.io/polyweave/logo.svg" alt="" width="20" height="20" align="top"> **[polyweave](https://alegauss.github.io/polyweave/)**: makes 3D assets by declaring what they must satisfy, on Blender and Godot.
-- <img src="https://alegauss.github.io/logos/piano.png" alt="" width="20" height="20" align="top"> **[Piano](https://alegauss.github.io/piano/)**: a piano Claude Code can write scores for, play and teach from; the notes fall onto the keys and you learn to play them.
+- <img src="https://alegauss.com/roadkeep/assets/roadkeep-mark.svg" alt="" width="20" height="20" align="top"> **[roadkeep](https://alegauss.com/roadkeep/)**: owns the writes to your ROADMAP, CHANGELOG and IMPROVEMENTS, so the format is enforced instead of remembered. CLI and Claude Code plugin.
+- <img src="https://alegauss.com/commitclerk/logo.png" alt="" width="20" height="20" align="top"> **[commitclerk](https://alegauss.com/commitclerk/)**: reads your staged diff, drafts a Conventional Commits message, shows it to you, and commits.
+- <img src="https://alegauss.com/askround/icon.svg" alt="" width="20" height="20" align="top"> **[askround](https://alegauss.com/askround/)**: asks ChatGPT, Gemini, Claude and Perplexity the same question and reads whether your product is named, where, and beside which rivals. CLI and MCP server.
+- <img src="https://alegauss.com/winwright/logo.svg" alt="" width="20" height="20" align="top"> **[winwright](https://alegauss.com/winwright/)**: drives a Windows desktop app from a test, with four verdicts instead of two, so a check that never ran never reads as one that passed.
+- <img src="https://alegauss.com/polyweave/logo.svg" alt="" width="20" height="20" align="top"> **[polyweave](https://alegauss.com/polyweave/)**: makes 3D assets by declaring what they must satisfy, on Blender and Godot.
+- <img src="https://alegauss.com/logos/piano.png" alt="" width="20" height="20" align="top"> **[Piano](https://alegauss.com/piano/)**: a piano Claude Code can write scores for, play and teach from; the notes fall onto the keys and you learn to play them.
 
 ## For Windows
 
-- <img src="https://alegauss.github.io/freeharbor/logo.svg" alt="" width="20" height="20" align="top"> **[FreeHarbor](https://alegauss.github.io/freeharbor/)**: Docker on Windows without Docker Desktop.
-- <img src="https://alegauss.github.io/aduzi/logo.svg" alt="" width="20" height="20" align="top"> **[Aduzi](https://alegauss.github.io/aduzi/)**: SSH on Windows without the suite around it.
-- <img src="https://alegauss.github.io/pportal/logo.svg" alt="" width="20" height="20" align="top"> **[PPortal](https://alegauss.github.io/pportal/)**: PlayStation Remote Play as a real Windows app.
-- <img src="https://alegauss.github.io/modelado/icon.svg" alt="" width="20" height="20" align="top"> **[Modelado](https://alegauss.github.io/modelado/)**: turns a photo into a 3D object or a relief, ready to print, with AI on your own PC.
-- <img src="https://alegauss.github.io/revelei/icon.svg" alt="" width="20" height="20" align="top"> **[Revelei](https://alegauss.github.io/revelei/)**: upscales photos, restores faces, removes backgrounds and cleans up noise, with AI on your own PC.
+- <img src="https://alegauss.com/freeharbor/logo.svg" alt="" width="20" height="20" align="top"> **[FreeHarbor](https://alegauss.com/freeharbor/)**: Docker on Windows without Docker Desktop.
+- <img src="https://alegauss.com/aduzi/logo.svg" alt="" width="20" height="20" align="top"> **[Aduzi](https://alegauss.com/aduzi/)**: SSH on Windows without the suite around it.
+- <img src="https://alegauss.com/pportal/logo.svg" alt="" width="20" height="20" align="top"> **[PPortal](https://alegauss.com/pportal/)**: PlayStation Remote Play as a real Windows app.
+- <img src="https://alegauss.com/modelado/icon.svg" alt="" width="20" height="20" align="top"> **[Modelado](https://alegauss.com/modelado/)**: turns a photo into a 3D object or a relief, ready to print, with AI on your own PC.
+- <img src="https://alegauss.com/revelei/icon.svg" alt="" width="20" height="20" align="top"> **[Revelei](https://alegauss.com/revelei/)**: upscales photos, restores faces, removes backgrounds and cleans up noise, with AI on your own PC.
 
 ## Lab
 
-- <img src="assets/usage-simulator.svg" alt="" width="20" height="20" align="top"> **[Usage Simulator](https://alegauss.github.io/claude-code-usage/)**: what a Claude Code task really costs, and how far each plan carries you, from real session transcripts.
-- <img src="assets/time-study.svg" alt="" width="20" height="20" align="top"> **[Time Study](https://alegauss.github.io/claude-code-time-study/)**: where the hours went on an AI-assisted project, from session records and git history.
-- <img src="assets/claude-code-first.svg" alt="" width="20" height="20" align="top"> **[Claude Code First](https://alegauss.github.io/claude-code-first/)**: how to run a project where Claude Code writes the code and a person decides what gets built, with every rule resting on graded evidence from five projects.
-- <img src="https://alegauss.github.io/mini-gpt/logo.svg" alt="" width="20" height="20" align="top"> **[Mini GPT](https://alegauss.github.io/mini-gpt/)**: a character-level GPT written from scratch in plain Java with no ML library, from bigrams to backprop by hand to a small transformer.
+- <img src="assets/usage-simulator.svg" alt="" width="20" height="20" align="top"> **[Usage Simulator](https://alegauss.com/claude-code-usage/)**: what a Claude Code task really costs, and how far each plan carries you, from real session transcripts.
+- <img src="assets/time-study.svg" alt="" width="20" height="20" align="top"> **[Time Study](https://alegauss.com/claude-code-time-study/)**: where the hours went on an AI-assisted project, from session records and git history.
+- <img src="assets/claude-code-first.svg" alt="" width="20" height="20" align="top"> **[Claude Code First](https://alegauss.com/claude-code-first/)**: how to run a project where Claude Code writes the code and a person decides what gets built, with every rule resting on graded evidence from five projects.
+- <img src="https://alegauss.com/mini-gpt/logo.svg" alt="" width="20" height="20" align="top"> **[Mini GPT](https://alegauss.com/mini-gpt/)**: a character-level GPT written from scratch in plain Java with no ML library, from bigrams to backprop by hand to a small transformer.
 
 ## Independent sites
 
@@ -50,11 +50,11 @@ winget install alegauss.ClaudeCodeTray
 - <img src="https://japode.com/products/japode-ads.svg" alt="" width="20" height="20" align="top"> **[Japode Ads](https://ads.japode.com/)**: the house banner network, where the Japode and Viglet products advertise each other. Static files, no ad server, no bidding, no tracking.
 - <img src="https://japode.com/products/jcloud.svg" alt="" width="20" height="20" align="top"> **[jcloud](https://japode.com/jcloud/)**: checks a service's manifest against every file that has to agree with it, from its compose file and route to backup.conf and .env.example, and names each place they drift.
 
-## <img src="https://alegauss.github.io/viglet/viglet-logo.png" alt="" width="28" height="28" align="top"> Viglet
+## <img src="https://alegauss.com/viglet/viglet-logo.png" alt="" width="28" height="28" align="top"> Viglet
 
-- <img src="https://alegauss.github.io/viglet/turing-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Turing](https://openviglet.github.io/turing/)** · Enterprise Search: search for sites with a lot of content, with AI answers drawn only from your own pages. Self-hosted, no per-user licence.
-- <img src="https://alegauss.github.io/viglet/shio-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Shio](https://openviglet.github.io/shio/)** · Agent-ready CMS: a new page goes live the same day, reviewed and approved by your own team.
-- <img src="https://alegauss.github.io/viglet/dumont-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Dumont](https://openviglet.github.io/dumont/)** · Data Exchange Platform: connectors that gather content from portals, back-office systems and PDFs and keep the search index correct.
+- <img src="https://alegauss.com/viglet/turing-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Turing](https://openviglet.github.io/turing/)** · Enterprise Search: search for sites with a lot of content, with AI answers drawn only from your own pages. Self-hosted, no per-user licence.
+- <img src="https://alegauss.com/viglet/shio-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Shio](https://openviglet.github.io/shio/)** · Agent-ready CMS: a new page goes live the same day, reviewed and approved by your own team.
+- <img src="https://alegauss.com/viglet/dumont-logo.png" alt="" width="20" height="20" align="top"> **[Viglet Dumont](https://openviglet.github.io/dumont/)** · Data Exchange Platform: connectors that gather content from portals, back-office systems and PDFs and keep the search index correct.
 
 ## <img src="https://games.viglet.com/favicon.svg" alt="" width="28" height="28" align="top"> Viglet Games
 
@@ -63,4 +63,4 @@ winget install alegauss.ClaudeCodeTray
 
 ---
 
-Everything, with what each product shipped and what comes next: **[alegauss.github.io](https://alegauss.github.io/)**
+Everything, with what each product shipped and what comes next: **[alegauss.com](https://alegauss.com/)**
